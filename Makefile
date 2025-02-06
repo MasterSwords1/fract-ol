@@ -1,4 +1,4 @@
-CFLAGS= -Wall -Wextra -Werror -O3 -g
+CFLAGS= -Wall -Wextra -Werror -O3
 NAME= fractol
 BNAME= fractol_bonus
 MSRCS= main.c events.c julia.c mandelbrot.c fract_utils.c \
